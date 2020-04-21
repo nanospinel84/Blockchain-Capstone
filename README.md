@@ -95,10 +95,6 @@ Summary
 
 ```
 
-## dApp
-
-I created a simple dApp to mint tokens, which can be viewed in the `dapp` directory.
-
 
 ## Testing
 
